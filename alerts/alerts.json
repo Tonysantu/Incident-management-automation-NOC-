@@ -1,0 +1,26 @@
+[
+  {
+    "alert_id": "401",
+    "severity": "P1",
+    "message": "Database down on serverZ",
+    "source": "fake/nagios"
+  },
+  {
+    "alert_id": "402",
+    "severity": "P2",
+    "message": "High latency on serverX",
+    "source": "fake/nagios"
+  },
+  {
+    "alert_id": "403",
+    "severity": "P3",
+    "message": "Disk space 90% full on serverY",
+    "source": "fake/solarwinds"
+  },
+  {
+    "alert_id": "404",
+    "severity": "P4",
+    "message": "CPU utilization warning on serverX",
+    "source": "fake/nagios"
+  }
+]
